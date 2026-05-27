@@ -12,4 +12,5 @@ class Rectangle(Shape):
 r = Rectangle(10,30)
 print("Area: ", r.area())
 print("Perimeter: ", r.perimeter())
+print("anandhu")
         
