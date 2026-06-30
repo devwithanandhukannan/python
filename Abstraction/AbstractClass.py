@@ -28,6 +28,6 @@ class Shape(ABC):
 
 print("anandhu")
 print("hiii")
-print("one")
+
 
     
