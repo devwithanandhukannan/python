@@ -26,7 +26,5 @@ class Shape(ABC):
     def perimeter(self):
         pass
 
-print("anandhu")
-
 
     
